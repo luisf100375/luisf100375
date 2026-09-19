@@ -1,16 +1,26 @@
-## Hi there 👋
+¡Hola! Soy Luis 👋
 
-<!--
-**luisf100375/luisf100375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudiante de Análisis y Desarrollo de Software (ADSO) en el SENA**  
+Apasionado por la construcción de software, resolución de problemas y desarrollo web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías & Herramientas
+
+- **Lenguajes & Backend:** PHP, JavaScript, SQL (MySQL)
+- **Frontend:** HTML5, CSS3, Bootstrap
+- **Control de Versiones:** Git, GitHub
+- **Conceptos:** Análisis de Requerimientos, Modelado UML, Bases de Datos Relacionales
+
+
+
+📂 Proyectos Destacados
+
+- 🚛 Sistema de Gestión de Talleres (Diesel Worker / Mecasoft): Aplicación web desarrollada para la administración de ordenes de trabajo, inventario y repuestos.
+
+---
+
+📬 Contacto & Redes
+
+- **LinkedIn: Luis Mendez (https://linkedin.com/in/tu-perfil)
+- Correo: luismendez0375@gmail.com
